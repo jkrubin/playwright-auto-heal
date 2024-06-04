@@ -1,0 +1,19 @@
+{
+  "name": "playwright-auto-heal",
+  "version": "1.0.0",
+  "description": "A module to provide AI backup to playwright actions",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "@types/cheerio": "^0.22.35",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.4.5",
+    "openai": "^4.47.3",
+    "playwright": "^1.44.1"
+  }
+}

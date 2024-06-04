@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "playwright": "^1.44.1",
+    "playwright-auto-heal": "file:../playwright-auto-heal"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0"
+  }
+}
